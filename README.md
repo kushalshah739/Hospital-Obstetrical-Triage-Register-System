@@ -1,0 +1,2 @@
+# Hospital-Obstetrical-Triage-Register-System
+Built a hospital software  system  to  handle  the  admission  of pregnant patients to an obstetrical  triage (the waiting/preparation stage at the hospital before entering the birthing unit).  The software realizes a computerized obstetrical triage patient register (i.e. a queue of expectant mothers with signs of  impending  labour  waiting  for  a  bed  in  the  birthing  unit).
